@@ -12,7 +12,7 @@ import (
 	"net"
 	"testing"
 
-	"github.com/free5gc/tngf/pkg/ike/message"
+	"github.com/f0lkert/tngf/pkg/ike/message"
 )
 
 var conn net.Conn

@@ -3,7 +3,7 @@ package handler
 import (
 	"net"
 
-	radius_message "github.com/free5gc/tngf/pkg/radius/message"
+	radius_message "github.com/f0lkert/tngf/pkg/radius/message"
 )
 
 func SendRadiusMessageToUE(udpConn *net.UDPConn, srcAddr, dstAddr *net.UDPAddr, message *radius_message.RadiusMessage) {

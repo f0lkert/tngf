@@ -13,9 +13,9 @@ import (
 	"github.com/sirupsen/logrus"
 
 	"github.com/free5gc/sctp"
-	"github.com/free5gc/tngf/internal/logger"
-	"github.com/free5gc/tngf/pkg/context"
-	"github.com/free5gc/tngf/pkg/factory"
+	"github.com/f0lkert/tngf/internal/logger"
+	"github.com/f0lkert/tngf/pkg/context"
+	"github.com/f0lkert/tngf/pkg/factory"
 )
 
 var contextLog *logrus.Entry

@@ -8,7 +8,7 @@ import (
 
 	"github.com/sirupsen/logrus"
 
-	"github.com/free5gc/tngf/internal/logger"
+	"github.com/f0lkert/tngf/internal/logger"
 )
 
 // Log

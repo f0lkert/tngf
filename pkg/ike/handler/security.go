@@ -17,8 +17,8 @@ import (
 	"math/big"
 	"strings"
 
-	"github.com/free5gc/tngf/pkg/context"
-	"github.com/free5gc/tngf/pkg/ike/message"
+	"github.com/f0lkert/tngf/pkg/context"
+	"github.com/f0lkert/tngf/pkg/ike/message"
 )
 
 // General data

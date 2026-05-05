@@ -7,7 +7,7 @@ import (
 	"github.com/free5gc/aper"
 	"github.com/free5gc/nas/nasType"
 	"github.com/free5gc/ngap/ngapType"
-	"github.com/free5gc/tngf/pkg/radius/message"
+	"github.com/f0lkert/tngf/pkg/radius/message"
 )
 
 // 3GPP specified EAP-5G

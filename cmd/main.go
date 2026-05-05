@@ -9,9 +9,9 @@ import (
 
 	"github.com/urfave/cli/v2"
 
-	"github.com/free5gc/tngf/internal/logger"
-	"github.com/free5gc/tngf/pkg/factory"
-	"github.com/free5gc/tngf/pkg/service"
+	"github.com/f0lkert/tngf/internal/logger"
+	"github.com/f0lkert/tngf/pkg/factory"
+	"github.com/f0lkert/tngf/pkg/service"
 	logger_util "github.com/free5gc/util/logger"
 	"github.com/free5gc/util/version"
 )

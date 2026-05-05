@@ -10,10 +10,10 @@ import (
 
 	lib_ngap "github.com/free5gc/ngap"
 	"github.com/free5gc/sctp"
-	"github.com/free5gc/tngf/internal/logger"
-	"github.com/free5gc/tngf/internal/ngap"
-	"github.com/free5gc/tngf/internal/ngap/message"
-	"github.com/free5gc/tngf/pkg/context"
+	"github.com/f0lkert/tngf/internal/logger"
+	"github.com/f0lkert/tngf/internal/ngap"
+	"github.com/f0lkert/tngf/internal/ngap/message"
+	"github.com/f0lkert/tngf/pkg/context"
 )
 
 var ngapLog *logrus.Entry

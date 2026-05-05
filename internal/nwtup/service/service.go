@@ -11,10 +11,10 @@ import (
 	gtpMsg "github.com/wmnsk/go-gtp/gtpv1/message"
 	"golang.org/x/net/ipv4"
 
-	"github.com/free5gc/tngf/internal/gre"
-	gtpQoSMsg "github.com/free5gc/tngf/internal/gtp/message"
-	"github.com/free5gc/tngf/internal/logger"
-	tngf_context "github.com/free5gc/tngf/pkg/context"
+	"github.com/f0lkert/tngf/internal/gre"
+	gtpQoSMsg "github.com/f0lkert/tngf/internal/gtp/message"
+	"github.com/f0lkert/tngf/internal/logger"
+	tngf_context "github.com/f0lkert/tngf/pkg/context"
 )
 
 var nwtupLog *logrus.Entry

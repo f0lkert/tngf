@@ -10,8 +10,8 @@ import (
 	"io"
 	"math/big"
 
-	"github.com/free5gc/tngf/pkg/context"
-	"github.com/free5gc/tngf/pkg/radius/message"
+	"github.com/f0lkert/tngf/pkg/context"
+	"github.com/f0lkert/tngf/pkg/radius/message"
 )
 
 func GenerateRandomUint8() (uint8, error) {

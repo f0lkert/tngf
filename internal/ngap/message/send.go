@@ -7,8 +7,8 @@ import (
 
 	"github.com/free5gc/ngap/ngapType"
 	"github.com/free5gc/sctp"
-	"github.com/free5gc/tngf/internal/logger"
-	"github.com/free5gc/tngf/pkg/context"
+	"github.com/f0lkert/tngf/internal/logger"
+	"github.com/f0lkert/tngf/pkg/context"
 	ngap_metrics "github.com/free5gc/util/metrics/ngap"
 )
 

@@ -8,9 +8,9 @@ import (
 	"github.com/sirupsen/logrus"
 	"github.com/vishvananda/netlink"
 
-	"github.com/free5gc/tngf/internal/logger"
-	"github.com/free5gc/tngf/pkg/context"
-	"github.com/free5gc/tngf/pkg/ike/message"
+	"github.com/f0lkert/tngf/internal/logger"
+	"github.com/f0lkert/tngf/pkg/context"
+	"github.com/f0lkert/tngf/pkg/ike/message"
 )
 
 // Log

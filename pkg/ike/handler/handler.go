@@ -14,11 +14,11 @@ import (
 	"golang.org/x/sys/unix"
 
 	"github.com/free5gc/ngap/ngapType"
-	"github.com/free5gc/tngf/internal/logger"
-	ngap_message "github.com/free5gc/tngf/internal/ngap/message"
-	"github.com/free5gc/tngf/pkg/context"
-	ike_message "github.com/free5gc/tngf/pkg/ike/message"
-	"github.com/free5gc/tngf/pkg/ike/xfrm"
+	"github.com/f0lkert/tngf/internal/logger"
+	ngap_message "github.com/f0lkert/tngf/internal/ngap/message"
+	"github.com/f0lkert/tngf/pkg/context"
+	ike_message "github.com/f0lkert/tngf/pkg/ike/message"
+	"github.com/f0lkert/tngf/pkg/ike/xfrm"
 	"github.com/free5gc/util/ueauth"
 )
 

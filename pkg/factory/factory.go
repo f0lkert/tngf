@@ -11,7 +11,7 @@ import (
 	"github.com/asaskevich/govalidator"
 	yaml "gopkg.in/yaml.v2"
 
-	"github.com/free5gc/tngf/internal/logger"
+	"github.com/f0lkert/tngf/internal/logger"
 )
 
 var TngfConfig *Config

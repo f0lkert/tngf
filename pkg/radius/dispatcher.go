@@ -6,9 +6,9 @@ import (
 
 	"github.com/sirupsen/logrus"
 
-	"github.com/free5gc/tngf/internal/logger"
-	"github.com/free5gc/tngf/pkg/radius/handler"
-	radius_message "github.com/free5gc/tngf/pkg/radius/message"
+	"github.com/f0lkert/tngf/internal/logger"
+	"github.com/f0lkert/tngf/pkg/radius/handler"
+	radius_message "github.com/f0lkert/tngf/pkg/radius/message"
 )
 
 var radiusLog *logrus.Entry

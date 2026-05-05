@@ -1,4 +1,4 @@
-module github.com/free5gc/tngf
+module github.com/f0lkert/tngf
 
 go 1.25.5
 

@@ -9,9 +9,9 @@ import (
 	gtp "github.com/wmnsk/go-gtp/gtpv1"
 	gtpMsg "github.com/wmnsk/go-gtp/gtpv1/message"
 
-	"github.com/free5gc/tngf/internal/gtp/handler"
-	"github.com/free5gc/tngf/internal/logger"
-	tngfContext "github.com/free5gc/tngf/pkg/context"
+	"github.com/f0lkert/tngf/internal/gtp/handler"
+	"github.com/f0lkert/tngf/internal/logger"
+	tngfContext "github.com/f0lkert/tngf/pkg/context"
 )
 
 var gtpLog *logrus.Entry

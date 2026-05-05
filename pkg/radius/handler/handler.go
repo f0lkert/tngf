@@ -10,10 +10,10 @@ import (
 
 	"github.com/sirupsen/logrus"
 
-	"github.com/free5gc/tngf/internal/logger"
-	ngap_message "github.com/free5gc/tngf/internal/ngap/message"
-	"github.com/free5gc/tngf/pkg/context"
-	radius_message "github.com/free5gc/tngf/pkg/radius/message"
+	"github.com/f0lkert/tngf/internal/logger"
+	ngap_message "github.com/f0lkert/tngf/internal/ngap/message"
+	"github.com/f0lkert/tngf/pkg/context"
+	radius_message "github.com/f0lkert/tngf/pkg/radius/message"
 	"github.com/free5gc/util/ueauth"
 )
 

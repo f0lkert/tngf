@@ -10,7 +10,7 @@ import (
 
 	"github.com/free5gc/nas/nasType"
 	"github.com/free5gc/ngap/ngapType"
-	ike_message "github.com/free5gc/tngf/pkg/ike/message"
+	ike_message "github.com/f0lkert/tngf/pkg/ike/message"
 )
 
 const (

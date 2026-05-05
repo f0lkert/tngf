@@ -3,7 +3,7 @@ package handler
 import (
 	"net"
 
-	ike_message "github.com/free5gc/tngf/pkg/ike/message"
+	ike_message "github.com/f0lkert/tngf/pkg/ike/message"
 )
 
 func SendIKEMessageToUE(udpConn *net.UDPConn, srcAddr, dstAddr *net.UDPAddr, message *ike_message.IKEMessage) {

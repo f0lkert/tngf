@@ -12,9 +12,9 @@ import (
 
 	"github.com/sirupsen/logrus"
 
-	"github.com/free5gc/tngf/internal/logger"
-	"github.com/free5gc/tngf/internal/ngap/message"
-	tngf_context "github.com/free5gc/tngf/pkg/context"
+	"github.com/f0lkert/tngf/internal/logger"
+	"github.com/f0lkert/tngf/internal/ngap/message"
+	tngf_context "github.com/f0lkert/tngf/pkg/context"
 )
 
 var nwtcpLog *logrus.Entry

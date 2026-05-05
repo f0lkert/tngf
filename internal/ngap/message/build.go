@@ -8,9 +8,9 @@ import (
 	"github.com/free5gc/ngap"
 	"github.com/free5gc/ngap/ngapConvert"
 	"github.com/free5gc/ngap/ngapType"
-	"github.com/free5gc/tngf/internal/logger"
-	"github.com/free5gc/tngf/internal/util"
-	"github.com/free5gc/tngf/pkg/context"
+	"github.com/f0lkert/tngf/internal/logger"
+	"github.com/f0lkert/tngf/internal/util"
+	"github.com/f0lkert/tngf/pkg/context"
 )
 
 func BuildNGSetupRequest() ([]byte, error) {
